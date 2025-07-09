@@ -45,7 +45,6 @@ FrequencyDistribution.exe -a -r50 -l Shakespeare.TXT
 
 Options can appear in any order.
 
-
 ---
 
 ## Output
@@ -61,8 +60,9 @@ When both `-n` and `-a` are specified, numeric labels appear first, followed by 
 ---
 
 ## Example
-
-
+(https://github.com/SakshiD16/Frequency-Analysis-in-Cryptography/blob/main/docs/Screenshot%202025-06-28%20133734.png)
+(https://github.com/SakshiD16/Frequency-Analysis-in-Cryptography/blob/main/docs/Screenshot%202025-06-28%20133710.png)
+(https://github.com/SakshiD16/Frequency-Analysis-in-Cryptography/blob/main/final.png)
 ---
 
 ## Building the Project
