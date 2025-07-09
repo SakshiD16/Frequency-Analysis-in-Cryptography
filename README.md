@@ -95,16 +95,6 @@ You are encouraged to test your program on:
 
 ---
 
-## Graduate Credit Features
-
-If you are taking this course for graduate credit, the program also:
-- Counts digrams (65,536 possibilities).
-- Counts trigrams (16,777,216 possibilities).
-- Counts octagrams (8-byte blocks) without using libraries like maps or hash tables.
-- Outputs separate summary lines for each frequency set.
-
----
-
 ## Notes
 
 - The program must accept the filename as a **single command-line argument** and **must not prompt** the user for input.
